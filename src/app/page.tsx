@@ -904,7 +904,7 @@ export default function Home() {
 
       {/* Kakao Chat Floating Button */}
       <a
-        href="http://pf.kakao.com/_KkxahX/chat"
+        href="https://pf.kakao.com/_KkxaxhX/chat"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-4 right-4 sm:bottom-6 sm:right-6 z-50 w-14 h-14 sm:w-16 sm:h-16 rounded-full shadow-xl hover:scale-110 transition-transform hover:shadow-2xl"
