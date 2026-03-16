@@ -833,7 +833,7 @@ export default function Home() {
               </button>
 
               <a
-                href="http://pf.kakao.com/_KkxaxhX/chat"
+                href="https://pf.kakao.com/_KkxaxhX/chat"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full bg-[#FEE500] hover:bg-[#F0D800] text-gray-900 font-bold py-4 rounded-xl text-lg transition-all hover:scale-[1.02] shadow-lg text-center block"
